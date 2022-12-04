@@ -17,3 +17,6 @@
     font-family: 'Pacifico', cursive;
     font-size: medium;
 }
+.form-send:hover {
+    cursor: pointer;
+}

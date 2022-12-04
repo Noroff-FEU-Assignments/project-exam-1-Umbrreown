@@ -70,7 +70,7 @@ font-family: 'Roboto Flex', sans-serif;
   }
   .hero {
     grid-area: hero;
-    background-image: url("/images/hero.jpg");
+    background-image: url("/images/odinheader.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px;

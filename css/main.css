@@ -85,6 +85,7 @@ font-family: 'Roboto Flex', sans-serif;
   }
   .card {
     display: flex;
+    min-width: 50rem;
     max-width: 70rem;
     background-color: antiquewhite;
     border-radius: 10px;
@@ -98,7 +99,6 @@ font-family: 'Roboto Flex', sans-serif;
   .card-title {
     font-family: 'Roboto Flex', sans-serif;
     font-weight: 900;
-    
   }
   .card-date {
     font-family: 'Roboto Flex', sans-serif;
@@ -109,7 +109,7 @@ font-family: 'Roboto Flex', sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
   }
-  .card-img {
+  .card-img { /* No longer in use, but just in case I change my mind */
     max-height: 100%;
     max-width: 15rem;
     border: 10px solid white;
